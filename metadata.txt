@@ -1,0 +1,36 @@
+[general]
+name=Center Point on Line
+qgisMinimumVersion=3.0
+description=Generate center (centroid) point from line features using processing algorithm
+version=1.0
+author=Anustup Jana
+email=anustupjana21@gmail.com
+
+about=Center Point on Line is a lightweight QGIS plugin that generates center (centroid) points from line features. It fixes geometries, reprojects data, and calculates midpoint-based centroids automatically using QGIS processing tools.
+
+tracker=https://github.com/AnustupJana/CenterPointOnLine-plugin/issues
+repository=https://github.com/AnustupJana/CenterPointOnLine-plugin
+# End of mandatory metadata
+
+hasProcessingProvider=no
+
+tags=vector, line, point, centroid, midpoint, geometry, processing
+
+homepage=https://github.com/AnustupJana/CenterPointOnLine-plugin/#readme
+category=Vector
+icon=icon.png
+
+experimental=False
+deprecated=False
+
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Vector
+
+# If the plugin can run on QGIS Server.
+server=False
