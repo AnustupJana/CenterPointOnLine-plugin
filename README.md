@@ -1,5 +1,3 @@
-# CenterPointOnLine-plugin
-
 # Center Point on Line QGIS Plugin
 
 ![Plugin Icon](https://github.com/AnustupJana/CenterPointOnLine-plugin/blob/main/icon.png?raw=true)
