@@ -1,6 +1,6 @@
 # Center Point on Line QGIS Plugin
 
-![Plugin Icon](https://github.com/AnustupJana/CenterPointOnLine-plugin/blob/main/icon.png?raw=true)
+![Diagram of the System](https://github.com/AnustupJana/CenterPointOnLine-plugin/blob/main/icon.png?raw=true)
 
 ## Overview
 The **Center Point on Line** plugin for QGIS allows users to generate a center point along a line feature using a simple and efficient workflow. The plugin calculates the midpoint of each line feature and creates a corresponding point layer.
